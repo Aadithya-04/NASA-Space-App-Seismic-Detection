@@ -40,6 +40,8 @@ The project includes a web application that:
 - Automates the algorithms for data filtering, noise reduction, and compression.
 - Provides real-time or near-real-time data analysis through a user-friendly interface.
 
+![Seismic Data Interface](images\web-app.jpg) 
+
 ## Technologies Used
 - **PCA (Principal Component Analysis)**: To highlight key features and reduce data size.
 - **Huffman Encoding**: To perform lossless compression on the reduced data.
@@ -55,6 +57,8 @@ The project includes a web application that:
 - Automating the processing algorithms for continuous data filtering and analysis.
 - Further optimizations in data transmission efficiency for long-duration missions.
 
+![Apollo 11 Seismic Experiment](images\apollo-satellite.jpg) 
+
 ## Contributors
 - **Sunil Sachindar S A**
 - **Leonal Robin D**
@@ -62,7 +66,5 @@ The project includes a web application that:
 - **Aadithya E R Menon**
 - **Darneshwar S**
 - **Sai Tarun Aditya K**
-
-
 
 This project was developed by Phantom Developers to assist in planetary exploration and seismic data analysis, specifically focusing on the challenges faced with Apollo and Mars InSight seismic data.
