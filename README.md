@@ -1,5 +1,18 @@
 # Seismic Data Detection Project
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Problem Statement](#problem-statement)
+3. [Key Components](#key-components)
+   - [Planetary Seismic Detector (PSD)](#planetary-seismic-detector-psd)
+   - [Noise Removal](#noise-removal)
+   - [Data Compression](#data-compression)
+4. [Web Application](#web-application)
+5. [Technologies Used](#technologies-used)
+6. [Challenges](#challenges)
+7. [Future Work](#future-work)
+8. [Contributors](#contributors)
+
 ## Project Overview
 The Seismic Data Detection project focuses on filtering seismic data from Apollo and Mars InSight missions. It identifies earthquake signals and reduces noise for efficient data transmission. The project leverages advanced techniques like Principal Component Analysis (PCA) and Huffman encoding to compress seismic data, making it possible to transmit only necessary information with high resolution and low power consumption.
 
@@ -50,6 +63,6 @@ The project includes a web application that:
 - **Darneshwar S**
 - **Sai Tarun Aditya K**
 
----
+
 
 This project was developed by Phantom Developers to assist in planetary exploration and seismic data analysis, specifically focusing on the challenges faced with Apollo and Mars InSight seismic data.
