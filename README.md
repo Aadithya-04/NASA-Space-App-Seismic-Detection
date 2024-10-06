@@ -40,7 +40,7 @@ The project includes a web application that:
 - Automates the algorithms for data filtering, noise reduction, and compression.
 - Provides real-time or near-real-time data analysis through a user-friendly interface.
 
-![Seismic Data Interface](images\web-app.jpg) 
+![Seismic Data Interface](C:\Users\TheMa\Downloads\GitHub Repos\NASA-Space-App-Seismic-Detection\images\web-app.jpg) 
 
 ## Technologies Used
 - **PCA (Principal Component Analysis)**: To highlight key features and reduce data size.
@@ -57,7 +57,7 @@ The project includes a web application that:
 - Automating the processing algorithms for continuous data filtering and analysis.
 - Further optimizations in data transmission efficiency for long-duration missions.
 
-![Apollo 11 Seismic Experiment](images\apollo-satellite.jpg) 
+![Apollo 11 Seismic Experiment](C:\Users\TheMa\Downloads\GitHub Repos\NASA-Space-App-Seismic-Detection\images\apollo-satellite.jpg) 
 
 ## Contributors
 - **Sunil Sachindar S A**
