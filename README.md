@@ -23,15 +23,21 @@ The project aims to:
 - Minimize energy usage during data processing and transmission.
 
 ## Key Components
-1. **Planetary Seismic Detector (PSD)**: 
+
+1. **Empirical Mode Decomposition (EMD)**:
+    -which is a signal processing technique used to decompose complex signals into simpler components (called Intrinsic Mode Functions - IMFs) to effectively isolate and remove noise from a signal by selectively filtering out the noisy components.
+     -Non-stationary signals:
+EMD is particularly useful for analyzing non-stationary signals, meaning signals with changing frequency characteristics over time, which is often the case with noise-contaminated data
+
+3. **Planetary Seismic Detector (PSD)**: 
    - A tool designed to process seismic data by separating raw data from seismic instruments (seismometers) into useful signals and noise.
    - Utilizes RMS (Root Mean Square) energy calculations to enhance data quality.
 
-2. **Noise Removal**:
+4. **Noise Removal**:
    - PCA (Principal Component Analysis) is used to reduce noise in the data by highlighting the most significant components.
    - It ensures a significant reduction in data size while retaining key features for analysis.
 
-3. **Data Compression**:
+5. **Data Compression**:
    - Huffman encoding further compresses the data after PCA processing, ensuring lossless compression for optimized data transmission.
 
 ## Web Application
@@ -58,6 +64,9 @@ The project includes a web application that:
 - Further optimizations in data transmission efficiency for long-duration missions.
 
 ![Apollo 11 Seismic Experiment](https://github.com/Aadithya-04/NASA-Space-App-Seismic-Detection/blob/main/images/apollo-satellite.jpg) 
+
+***Our ppt**: 
+[Our Presentation](https://www.canva.com/design/DAGSsibhbzo/OtxS-zMjzHyhS-WrFEad-w/view?utm_content=DAGSsibhbzo&utm_campaign=designshare&utm_medium=link&utm_source=viewer#3)
 
 ## Contributors
 - **Sunil Sachindar S A**
