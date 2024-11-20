@@ -25,9 +25,9 @@ The project aims to:
 ## Key Components
 
 1. **Empirical Mode Decomposition (EMD)**:
-    -which is a signal processing technique used to decompose complex signals into simpler components (called Intrinsic Mode Functions - IMFs) to effectively isolate and remove noise from a signal by selectively filtering out the noisy components.
-     -Non-stationary signals:
-EMD is particularly useful for analyzing non-stationary signals, meaning signals with changing frequency characteristics over time, which is often the case with noise-contaminated data
+   - which is a signal processing technique used to decompose complex signals into simpler components (called Intrinsic Mode Functions - IMFs) to effectively isolate and remove noise from a signal by selectively filtering out the noisy components.
+   - Non-stationary signals:
+         EMD is particularly useful for analyzing non-stationary signals, meaning signals with changing frequency characteristics over time, which is often the case with noise-contaminated data
 
 3. **Planetary Seismic Detector (PSD)**: 
    - A tool designed to process seismic data by separating raw data from seismic instruments (seismometers) into useful signals and noise.
