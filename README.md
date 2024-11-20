@@ -65,8 +65,8 @@ The project includes a web application that:
 
 ![Apollo 11 Seismic Experiment](https://github.com/Aadithya-04/NASA-Space-App-Seismic-Detection/blob/main/images/apollo-satellite.jpg) 
 
-***Our ppt**: 
-[Our Presentation](https://www.canva.com/design/DAGSsibhbzo/OtxS-zMjzHyhS-WrFEad-w/view?utm_content=DAGSsibhbzo&utm_campaign=designshare&utm_medium=link&utm_source=viewer#3)
+**Our ppt**: 
+[Our Presentation](https://www.canva.com/design/DAGSsibhbzo/OtxS-zMjzHyhS-WrFEad-w/view?utm_content=DAGSsibhbzo&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
 ## Contributors
 - **Sunil Sachindar S A**
